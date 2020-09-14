@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nomads-frontend.netlify.app/](https://nomads-frontend.netlify.app/)
 
-- 💬 Ask me about **ui/ux, html/css, reactjs, laravel**
+- 💬 Ask me about **ui/ux, html/css/js, reactjs, laravel**
 
 - 📫 How to reach me **rendifadillah009@gmail.com**
 
