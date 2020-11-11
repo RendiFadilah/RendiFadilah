@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [JPONE SCHOOL](comingsoon)
 
-- 🌱 I’m currently learning **ReactJS, ExpressJS & Laravel**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on [Nomads](https://nomads-frontend.netlify.app/)
 
